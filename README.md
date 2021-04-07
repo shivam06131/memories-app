@@ -6,22 +6,22 @@ and also they can delete the memory.
 
 following npm modules were used to create this web-app 
 1)Frontend :-
-React
-react-dom
-react-file-base64
-react-google-login
-react-redux
-react-router-dom
-redux
-redux-thunk
-axios
-jwt-decode
-moment
+React,
+react-dom,
+react-file-base64,
+react-google-login,
+react-redux,
+react-router-dom,
+redux,
+redux-thunk,
+axios,
+jwt-decode,
+moment.
 
 2)Backend :-
-bcrypt
-cors
-dotenv
-express
-jsonwebtoken
-mongoose
+bcrypt,
+cors,
+dotenv,
+express,
+jsonwebtoken,
+mongoose.
