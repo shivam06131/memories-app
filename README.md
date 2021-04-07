@@ -4,8 +4,8 @@ and password hassing with bcrypt.js.
 After logging in user can create a new memory with image, they can see and like other people memories , as well as they can update their own previously created memory
 and also they can delete the memory.
 
-following npm modules were used to create this web-app :-
-1)Frontend
+following npm modules were used to create this web-app 
+1)Frontend :-
 React
 react-dom
 react-file-base64
@@ -18,7 +18,7 @@ axios
 jwt-decode
 moment
 
-2)Backend
+2)Backend :-
 bcrypt
 cors
 dotenv
