@@ -25,3 +25,5 @@ dotenv,
 express,
 jsonwebtoken,
 mongoose.
+
+deployed app link :- https://shivam-memories-app.netlify.app 
